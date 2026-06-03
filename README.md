@@ -64,7 +64,7 @@ Starbucks_Daily_Updates/
 ---
 ## 🖼️ Dashboard Preview
 
-![Starbucks Dashboard]("dashboard.png")
+![Starbucks Dashboard]("Starbucks_Daily_Updates/dashboard.png")
 
 > 📸 *Add dashboard screenshot in the screenshots/ folder*
 
